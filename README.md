@@ -1,7 +1,7 @@
 # FinanceFocus
 FinanceFocus is an application created in Angular that allows you to manage your budget in a simple and effective way. It uses CRUD operations, allowing you to add, edit, delete and view expenses.
 
-<img src="https://raw.githubusercontent.com/iuno-san/FinanceFocus/master/FinanceFocus/src/assets/Preview_img.png">
+<img src="https://raw.githubusercontent.com/iuno-san/FinanceFocus/refs/heads/master/financefocus/public/Preview_img.png">
 
 
 
